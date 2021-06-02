@@ -1,2 +1,6 @@
 Flask
 google-cloud-storage
+mysql-connector-python
+mysqlclient
+mysql
+flask_cors
