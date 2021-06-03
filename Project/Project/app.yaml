@@ -1,0 +1,9 @@
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "myKeys.json"
+  FLASK_APP: "main.py"
+runtime: python38
+#handlers:
+#- url: /.*
+#  static_dir: /.*
+#  http_headers:
+#    Access-Control-Allow-Origin: https://northern-union-268210.ew.r.appspot.com/
